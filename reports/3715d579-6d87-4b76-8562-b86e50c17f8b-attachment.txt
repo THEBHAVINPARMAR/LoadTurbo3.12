@@ -1,0 +1,2 @@
+✅ ChromeDriver found at: C:\DRIVERS\chromedriver-win64\chromedriver.exe
+[User 1] Logging in with: solartech@mailinator.com

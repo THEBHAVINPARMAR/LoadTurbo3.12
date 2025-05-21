@@ -1,0 +1,13 @@
+{
+  "chrome": {
+    "default": "latest",
+    "versions": {
+      "latest": {
+        "image": "selenoid/vnc:chrome_117.0",
+        "port": "4444",
+        "path": "/wd/hub",
+        "tmpfs": {"/tmp": "size=512m"}
+      }
+    }
+  }
+}
